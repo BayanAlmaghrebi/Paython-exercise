@@ -3,3 +3,11 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 = RESTART: C:/Users/bayan/AppData/Local/Programs/Python/Python311/exercise 1-1.py
 Welcome ahmed
+>>> 
+=== RESTART: C:/Users/bayan/Desktop/my codes/Paython exercise/exercise 1-1.py ==
+Welcome ahmed
+>>> 
+=== RESTART: C:/Users/bayan/Desktop/my codes/Paython exercise/exercise 1-1.py ==
+Welcome ahmed
+[]
+ahmed
