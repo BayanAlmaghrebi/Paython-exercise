@@ -1,3 +1,3 @@
 # Paython-exercise
 Paython.
-exercises for beginners
+exercises for beginners.
